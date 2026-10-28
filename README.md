@@ -10,7 +10,8 @@ Claude Code を「専属バトラー」にするための雛形です。
 - **重い作業は専門エージェントに任せる**：バトラーは中継に専念します。専門のルールとバトラーのルールは混ざらないようにします。
 
 ## 使い方
-1. このリポジトリを「Use this template」でコピーし、**非公開（Private）**のリポジトリとして作ります。
+1. このページ右上の「Use this template」→「Create a new repository」を選びます。Owner は自分のアカウント、名前は自由（例：`butler`）、公開範囲は **Private** にして「Create repository」を押します。
+   - fork ではなく「Use this template」を使ってください。公開リポジトリの fork は非公開にできないため、記録が公開されてしまいます。
 2. 手元に clone して、そのフォルダで Claude Code を開きます。
 3. 「はじめまして。バトラーとしてよろしく」など、普段どおりに話しかけます。
 
