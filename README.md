@@ -33,7 +33,7 @@ Claude Code を「専属バトラー」にするための雛形です。
 - パスワードや API キーなどの秘密情報は、記録に書かないでください。
 
 ## 解説記事
-- （公開後にリンクを追加）
+- [Claude Code に、経緯を覚えている「専属バトラー」を作る（Zenn）](https://zenn.dev/sarukani/articles/claude-code-butler-memory)
 
 ## ライセンス
 MIT
